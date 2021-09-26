@@ -1,0 +1,22 @@
+D:\Source Code\TaskManager\TaskManager\bin\Debug\TaskManager.exe.config
+D:\Source Code\TaskManager\TaskManager\bin\Debug\TaskManager.exe
+D:\Source Code\TaskManager\TaskManager\bin\Debug\TaskManager.pdb
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.Form1.resources
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.exe
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.pdb
+D:\Source Code\TaskManager\TaskManager\obj\Debug\TaskManager.Run_New_Task.resources
+D:\Temp\New_Folder\bin\Debug\TaskManager.exe.config
+D:\Temp\New_Folder\bin\Debug\TaskManager.exe
+D:\Temp\New_Folder\bin\Debug\TaskManager.pdb
+D:\Temp\New_Folder\obj\Debug\TaskManager.csproj.AssemblyReference.cache
+D:\Temp\New_Folder\obj\Debug\TaskManager.Form1.resources
+D:\Temp\New_Folder\obj\Debug\TaskManager.Properties.Resources.resources
+D:\Temp\New_Folder\obj\Debug\TaskManager.Run_New_Task.resources
+D:\Temp\New_Folder\obj\Debug\TaskManager.csproj.GenerateResource.cache
+D:\Temp\New_Folder\obj\Debug\TaskManager.csproj.CoreCompileInputs.cache
+D:\Temp\New_Folder\obj\Debug\TaskManager.exe
+D:\Temp\New_Folder\obj\Debug\TaskManager.pdb
